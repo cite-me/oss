@@ -11,13 +11,13 @@ The CiteMe OSS license is based on the [ISC license](https://opensource.org/lice
 ## FAQ
 
 - You want to **open-source your software** using the CiteMe OSS license?
-    - Is CiteMe OSS the right choice for me?
-    - How do I apply the license to my software?
-    - Which sources should I reference in the license?
+    - [Is CiteMe OSS the right choice for me?](#is-citeme-oss-the-right-choice-for-me)
+    - [How do I apply the license to my software?](#how-do-i-apply-the-license-to-my-software)
+    - [Which sources should I reference in the license?](#which-sources-should-i-reference-in-the-license)
 - You want to **use software** published under the CiteMe OSS license?
-    - What do I need to consider when I am writing an article?
-    - What do I need to consider when I am not writing an article?
-    - What do I need to consider when I modify the software?
+    - [What do I need to consider when I am writing an article?](#what-do-i-need-to-consider-when-i-am-writing-an-article)
+    - [What do I need to consider when I am not writing an article?](#what-do-i-need-to-consider-when-i-am-not-writing-an-article)
+    - [What do I need to consider when I modify the software?](#what-do-i-need-to-consider-when-i-modify-the-software)
 
 ---
 
@@ -25,9 +25,25 @@ The CiteMe OSS license is based on the [ISC license](https://opensource.org/lice
 
 #### Is CiteMe OSS the right choice for me?
 
+Is your software potentially able to contribute to findings that may get published in articles? Yes? Then be our guest and use the CiteMe OSS license.
+
+For example, if you wrote a physics simulator, a machine learning algorithm, a data visualisation library, etc. it is not far fetched that it will play a contributing role to produce finding that get published. However, if you wrote a small math library, a developer tool, a shell script that makes life easier, etc. then you will undoubtedly make your users happy but it probably won't contribute to the *findings* published in an article.
+
+The following clause ensures that citations are only enforced for software that *really* makes a contribution:
+
+```
+If this software is used to make a contribution to the findings published in an article, then [...] requested to include a citation [...].
+```
+
+If you think that your software will rarely play such a contributing role you may choose to use e.g. the [ISC license](https://opensource.org/licenses/ISC) instead. It won't help you get citations but it will make your user's life easier because they don't have to decide if they are required to add a citation.
+
+Either way - CiteMe OSS or regular open-source software license - thanks for being part of the open-source community!
+
 #### How do I apply the license to my software?
 
-- LICENSE file in the root directory
+1. Download this repository and copy the `CiteMe_OSS_v0_draft.txt` file into the root directory of your source code.
+2. More to come...
+
 - Header in each source file not necessary
 
 #### Which sources should I reference in the license?
