@@ -1,4 +1,4 @@
-CiteMe License for Open Source Software, Version 0. (CiteMe OSS v0)
+CiteMe License for Open Source Software, Version 0 draft 2016-05-19. (CiteMe OSS v0 draft)
 
 Copyright (c) <4-digit year>, <Company, Institute, or Person’s Name>, <Email address (optional)>
 
