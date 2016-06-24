@@ -9,7 +9,7 @@ If this software is used to make a contribution to the findings published in an 
 
 Scientific articles shall include:
 
-<APA formatted reference - see http://www.bibme.org/apa/journal-citation/new>
+<ASA formatted reference - see https://www.refme.com/us/citation-generator/asa/>
 
 Articles of any other type shall include:
 
