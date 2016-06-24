@@ -9,7 +9,7 @@ If this software is used to make a contribution to the findings published in an 
 
 Scientific articles shall include:
 
-<ASA formatted reference - see https://www.refme.com/us/citation-generator/asa/>
+<Elsevier Harvard formatted reference - see e.g. http://www.bibme.org/elsevier-harvard>
 
 Articles of any other type shall include:
 
