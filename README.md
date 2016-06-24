@@ -60,7 +60,7 @@ Either way - CiteMe OSS or regular open-source software license - thanks for bei
 
 ## Discussion of the clauses
 
-> CiteMe License for Open Source Software, Version 0 draft 2016-05-19. (CiteMe OSS v0 draft)
+> CiteMe License for Open Source Software, Version 0 draft 2016-06-24. (CiteMe OSS v0 draft)
 
 If the license is copied into a software repository it is commonly renamed to "LICENSE". In this case users of the software can still easily identify which license was applied.
 
@@ -70,7 +70,7 @@ If the license is copied into a software repository it is commonly renamed to "L
 
 This is an unaltered copy of the upper part of the [ISC license](https://opensource.org/licenses/ISC).
 
-> If this software is used to make a contribution to the findings published in an article, then the author(s) of that article are requested to include a citation using the reference provided below.
+> If this software is used to make a contribution to the findings published in an article, then the author(s) of that article are requested to include a citation using one of the references provided below.
 
 This is the "cite me" part of the license. It intentionally says "used to make a contribution to the findings" which puts the decision whether a citation is necessary into the hands of the article authors. If e.g. Microsoft Excel was CiteMe OSS licensed and used by the authors it would clearly depend on *how* Excel is used. It may be used to just get a quick understanding of some data (no citation necessary) or to extract statistical information from some data which is added to the article (citation necessary).
 
