@@ -1,11 +1,11 @@
-CiteMe License for Open Source Software, Version 0 draft 2016-05-19. (CiteMe OSS v0 draft)
+CiteMe License for Open Source Software, Version 0 draft 2016-06-24. (CiteMe OSS v0 draft)
 
 Copyright (c) <4-digit year>, <Company, Institute, or Person’s Name>, <Email address (optional)>
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
 
-If this software is used to make a contribution to the findings published in an article, then the author(s) of that article are requested to include a citation using the reference provided below.
+If this software is used to make a contribution to the findings published in an article, then the author(s) of that article are requested to include a citation using one of the references provided below.
 
 Scientific articles shall include:
 
