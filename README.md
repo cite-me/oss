@@ -44,7 +44,7 @@ Either way - CiteMe OSS or regular open-source software license - thanks for bei
     - **&lt; 4-digit year &gt;** &mdash; Set this to the current year. Next year update the year when you publish code updates for the first time that year.
     - **&lt; Company, Institute, or Person’s Name &gt;** &mdash; Usually, you want to put your own full name in here. If you are part of a team who develops the software you may put the affiliation here.
     - **&lt; Email address (optional) &gt;** &mdash; Optionally, put an email address for contacting purposes here.
-    - **&lt; APA formatted reference - see http://www.bibme.org/apa/journal-citation/new &gt;** &mdash; Ideally, reference a scientific paper that introduces the concept of the algorithm implemented in the software. E.g. if the software implements a novel machine learning algorithm then reference the paper that introduces the concept of that algorithm. Alternatively, reference a fitting source that authors of scientific papers will happily cite.
+    - **&lt; Elsevier Harvard formatted reference - see e.g. http://www.bibme.org/elsevier-harvard &gt;** &mdash; Ideally, reference a scientific paper that introduces the concept of the algorithm implemented in the software. E.g. if the software implements a novel machine learning algorithm then reference the paper that introduces the concept of that algorithm. Alternatively, reference a fitting source that authors of scientific papers will happily cite.
     - **&lt; web link, e.g. to GitHub page or arXiv link &gt;** &mdash; Citing a scientific paper in e.g. an internet blog article would not make much sense. Especially if the paper is only accessible through a paywall. Provide a web link instead through which the blog reader can continue browsing to read more detail about your work.
 3. You are done. In particular, it is not necessary to include a license header in each source file like you may have seen in some open-source projects.
 
@@ -82,9 +82,9 @@ This confinement is not only designed to give the article authors less choice wh
 
 > Scientific articles shall include:
 >
-> &lt; APA formatted reference - see http://www.bibme.org/apa/journal-citation/new &gt;
+> &lt; Elsevier Harvard formatted reference - see e.g. http://www.bibme.org/elsevier-harvard &gt;
 
-Publications in scientific journals, proceedings, etc. need an adequate reference. Although many researchers would prefer the BibTex format it should be a format easily readable by everyone. APA seems to be the most widely adopted format across all research fields.
+Publications in scientific journals, proceedings, etc. need an adequate reference. Although many researchers would prefer the BibTex format it should be a format easily readable by everyone. Elsevier Harvard is widely adopted and does not have limitations like a maximum number of co-authors (APA) or a confusing author list with mixed first and last name ordering (ASA).
 
 > Articles of any other type shall include:
 >
