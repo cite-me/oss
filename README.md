@@ -27,7 +27,7 @@ The CiteMe OSS license is based on the [ISC license](https://opensource.org/lice
 
 Is your software potentially able to contribute to findings that may get published in articles? Yes? Then be our guest and use the CiteMe OSS license.
 
-For example, if you wrote a physics simulator, a machine learning algorithm, a specialised data visualisation library, etc. it is not far fetched that it will play a contributing role to produce finding that get published. However, if you wrote a small math library, a developer tool, a shell script that makes life easier, etc. then you will undoubtedly make your users happy but it probably won't contribute to the *findings* published in an article.
+For example, if you wrote a physics simulator, a machine learning algorithm, a specialised data visualisation library, etc. it is not far fetched that it will play a contributing role to produce findings that get published. However, if you wrote a small math library, a developer tool, a shell script that makes life easier, etc. then you will undoubtedly make your users happy but it probably won't contribute to the *findings* published in an article.
 
 The following clause ensures that citations are only enforced for software that *really* makes a contribution:
 
